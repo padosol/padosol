@@ -15,8 +15,7 @@ Portfolio: 노션 링크 <br><br>
 Blog:  [https://padosol.com](https://padosol.com), [https://padosol.tistory.com](https://padosol.tistory.com)
 
 <div>
-      Languages
-      <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+      언어: Java, Kotlin, Javascript <br> 
 </div>
 
 </div>
