@@ -11,7 +11,6 @@
 
 
 Email: hzyan2@gmail.com <br><br>
-Portfolio: 노션 링크 <br><br>
 Blog:  [https://padosol.com](https://padosol.com), [https://padosol.tistory.com](https://padosol.tistory.com)
 
 <div>
