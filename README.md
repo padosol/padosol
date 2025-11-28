@@ -14,7 +14,6 @@
 
 
 Email: hzyan2@gmail.com <br><br>
-Blog:  [https://padosol.com](https://padosol.com), [https://padosol.tistory.com](https://padosol.tistory.com)
 
 <div>
       언어: Java, Kotlin, Vue3 <br> 
