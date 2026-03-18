@@ -8,7 +8,13 @@
 Email: hzyan2@gmail.com <br><br>
 
 <div>
-      언어: Java, Kotlin, Vue3 <br> 
+      Tech Stack
+            Backend: Java
+            Frontend: React (Next.js), Vue 3
+            Monitoring: Grafana, Prometheus
+            Database: PostgreSQL, MySQL, ClickHouse
+            Cloud: AWS
+            Deployment: Docker, Docker Compose
 </div>
 
 </div>
