@@ -9,7 +9,7 @@
 ### Backend
 - Java (Spring Boot)
 ### Data
-- PostgreSQL, MySQL, ClickHouse
+- PostgreSQL, MySQL
 ### Infrastructure
 - AWS
 - Docker, Docker Compose
