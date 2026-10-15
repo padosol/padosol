@@ -9,7 +9,7 @@
 ### Backend
 - Java (Spring Boot)
 ### Data
-- PostgreSQL, MySQL
+- MySQL
 ### Infrastructure
 - AWS
 - Docker, Docker Compose
@@ -17,5 +17,3 @@
 - Prometheus, Grafana
 ### Testing
 - JUnit, k6
-### Frontend
-- React (Next.js), Vue 3
