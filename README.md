@@ -9,7 +9,7 @@
 ### Backend
 - Java (Spring Boot)
 ### Data
-- MySQL
+- MySQL, Redis
 ### Infrastructure
 - AWS
 - Docker, Docker Compose
