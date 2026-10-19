@@ -17,3 +17,7 @@
 - Prometheus, Grafana
 ### Testing
 - JUnit, k6
+
+### Open Source
+
+Spring Boot [#52249](http://github.com/spring-projects/spring-boot/pull/52249)
