@@ -20,4 +20,4 @@
 
 ### Open Source
 
-Spring Boot [#52249](http://github.com/spring-projects/spring-boot/pull/52249)
+Spring Boot [#52249](http://github.com/spring-projects/spring-boot/pull/52249) [#52251](https://github.com/spring-projects/spring-boot/pull/52251)
