@@ -1,9 +1,3 @@
-<h1>Sanghoon's playground</h1>
-
-<p>
-  📧 <strong>Email</strong> <a href="mailto:hzyan2@gmail.com">hzyan2@gmail.com</a>
-</p>
-
 ## Tech Stack
 
 ### Backend
@@ -18,6 +12,9 @@
 ### Testing
 - JUnit, k6
 
-### Open Source
+### Open Source Contributions
 
-Spring Boot [#52249](http://github.com/spring-projects/spring-boot/pull/52249) [#52251](https://github.com/spring-projects/spring-boot/pull/52251)
+ 
+| 프로젝트 | 기여 내용 |
+|---|---|
+| Spring Boot |[#52249](http://github.com/spring-projects/spring-boot/pull/52249) <br> [#52251](https://github.com/spring-projects/spring-boot/pull/52251) |
