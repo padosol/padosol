@@ -5,10 +5,9 @@
 ### Data
 - MySQL, Redis
 ### Infrastructure
-- AWS
-- Docker, Docker Compose
+- AWS, Docker, kubernetes
 ### Observability
-- Prometheus, Grafana
+- Prometheus, Grafana, Loki, OpenTelemetry 
 ### Testing
 - JUnit, k6
 
